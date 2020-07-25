@@ -63,8 +63,8 @@ email: ""
 #- Visitors
 ---
 
-I am a researcher at VMware Research Group, where my principle area of research
-is the intersection of external memory theory and storage systems. I am
+I am a researcher at VMware Research Group, where the principle focus of my
+work is the intersection of external memory theory and storage systems. I am
 especially interested in key-value stores, file systems, filters and other
 systems built on a strong theoretical foundation.
 
@@ -75,7 +75,7 @@ tables](http://drops.dagstuhl.de/opus/volltexte/2018/9043/pdf/LIPIcs-ICALP-2018-
 and [the analysis of storage optimization
 heuristics](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975482.155).
 
-I am the lead of the SplinterDB project. SplinterDB is a general purpose
+I lead the SplinterDB project. SplinterDB is a general purpose
 key-value store built using a new data structure, the size-tiered
 $B^\varepsilon$-tree. SplinterDB is designed for outstanding performance on
 NVMe and other fast storage hardware, under tough conditions, such as strict memory
