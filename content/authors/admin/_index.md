@@ -39,7 +39,7 @@ bio: My research interests are at the intersection of external memory theory and
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:conway@ajhconway.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aconway@vmware.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RAYmM1wAAAAJ
@@ -75,11 +75,11 @@ tables](http://drops.dagstuhl.de/opus/volltexte/2018/9043/pdf/LIPIcs-ICALP-2018-
 and [the analysis of storage optimization
 heuristics](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975482.155).
 
-I lead the SplinterDB project. SplinterDB is a general purpose
-key-value store built using a new data structure, the size-tiered
+I am the research lead for the SplinterDB project. SplinterDB is a general
+purpose key-value store built using a new data structure, the size-tiered
 $B^\varepsilon$-tree. SplinterDB is designed for outstanding performance on
-NVMe and other fast storage hardware, under tough conditions, such as strict memory
-limits, small key-value pairs and limits on CPU utilization.
+NVMe and other fast storage hardware, under tough conditions, such as strict
+memory limits, small key-value pairs and limits on CPU utilization.
 
 I am a member of the BetrFS team, which built and maintains the BetrFS
 prototype file system. BetrFS is designed around the principles of
