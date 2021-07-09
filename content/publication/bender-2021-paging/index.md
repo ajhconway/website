@@ -15,7 +15,8 @@ authors:
 - Nirjhar Mukherjee
 - Don Porter
 - Guido Tagliavini
-- ' others'
+- Janet Vorobyeva
+- Evan West
 tags: []
 categories: []
 date: '2021-07-06'
